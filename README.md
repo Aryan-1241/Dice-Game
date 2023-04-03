@@ -1,3 +1,3 @@
 # Dice-Game
-Made a game of dice for 2 players .
+Made a dice game for 2 players .
 It uses HTML,CSS,Javascript.
